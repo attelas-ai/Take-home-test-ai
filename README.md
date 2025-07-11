@@ -2,7 +2,7 @@
 
 ## Overview
 
-Build a Python-based service that extracts structured invoice data from both **scanned** and **digital** PDF invoices, using a mix of OCR and AI models.
+Build a Python-based service that extracts structured invoice data from both **scanned** and **digital** PDF invoices. The service should return the extracted data in JSON format.
 
 ---
 
